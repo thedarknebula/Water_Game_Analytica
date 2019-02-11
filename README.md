@@ -1,5 +1,7 @@
 # Welcome to Water Game Analytica!
 
+<div id="text"></div>
+ 
 <script>
-  console.log("hello")
+document.getElementById("text").innerHTML = "Text added by JavaScript code";
 </script>
