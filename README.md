@@ -14,7 +14,7 @@ document.getElementById("text").innerHTML = "Your #1 source for FRC win predicti
 
 <input type="text" id="name" name="Team Name" required
        minlength="4" maxlength="4" size="10">
-
+________
 <label for="Your Team">Friendly 2 (4 characters):</label>
 
 <input type="text" id="name" name="Friendly 2" required
@@ -26,8 +26,8 @@ document.getElementById("text").innerHTML = "Your #1 source for FRC win predicti
        minlength="4" maxlength="4" size="10">
 
 
-/br
-/br
+<br>
+<br>
 
 
 <label for="Your Team">Opposing 1 (4 characters):</label>
