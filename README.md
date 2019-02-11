@@ -3,5 +3,5 @@
 <div id="text"></div>
  
 <script>
-document.getElementById("text").innerHTML = "Text added by JavaScript code";
+document.getElementById("text").innerHTML = "Your #1 source for FRC win predictions";
 </script>
