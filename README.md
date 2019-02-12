@@ -46,10 +46,6 @@ document.getElementById("text").innerHTML = "Your #1 source for FRC win predicti
 <input type="text" id="name" name="Opposing 3" required
        minlength="4" maxlength="4" size="10">
 <br>
-<script>
-var btn = document.createElement("BUTTON");       
-var t = document.createTextNode("Go!");      
-btn.appendChild(t);                               
-document.body.appendChild(btn);   
 
-</script>
+ <button class = "markdown-button" type="introbutton">Go!</button>
+
