@@ -1,5 +1,6 @@
 # Welcome to Water Game Analytica!
-## Your source for FRC win predictions and analysis
+### Your source for FRC win predictions and analysis
+
 <script src="https://raw.githubusercontent.com/thedarknebula/Water_Game_Analytica/master/predictions.js"></script>
 
 <style>
@@ -11,15 +12,26 @@ body {
 
 <div id="text"></div>
  
-<script>
-document.getElementById("text").innerHTML = "Your #1 source for FRC win predictions";
-</script>
+// <script>
+// document.getElementById("text").innerHTML = "Your #1 source for FRC win predictions";
+// </script>
 
 1. Choose your FRC event
 2. Enter your alliance team numbers for a match
 3. Enter opposing alliance numbers
 4. Your precentage win chance will be predictedd based on CCWM.
 
+
+<div class="dropdown">
+  <button onclick="myFunction()" class="dropbtn">Dropdown</button>
+  <div id="myDropdown" class="dropdown-content">
+    <a href="#">Link 1</a>
+    <a href="#">Link 2</a>
+    <a href="#">Link 3</a>
+  </div>
+</div> 
+
+<br>
 
 <label for="Your Team">Your Team :</label>
 
