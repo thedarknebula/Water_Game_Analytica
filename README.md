@@ -31,6 +31,7 @@ body {
   </div>
 </div> 
 
+<script>
 function eventSelectbtn() {
   document.getElementById("myDropdown").classList.toggle("show");
 }
@@ -48,7 +49,7 @@ window.onclick = function(event) {
     }
   }
 } 
-
+</script>
 <br>
 
 <label for="Your Team">Your Team :</label>
