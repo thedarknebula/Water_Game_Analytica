@@ -1,5 +1,5 @@
 # Welcome to Water Game Analytica!
-
+## Your source for FRC win predictions and analysis
 <script src="https://raw.githubusercontent.com/thedarknebula/Water_Game_Analytica/master/predictions.js"></script>
 
 <style>
