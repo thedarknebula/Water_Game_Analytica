@@ -13,9 +13,10 @@ body {
 document.getElementById("text").innerHTML = "Your #1 source for FRC win predictions";
 </script>
 
-1. Enter your alliance team numbers for a match
-2. Enter opposing alliance numbers
-3. Your precentage win chance will be predictedd based on CCWM.
+1. Choose your FRC event
+2. Enter your alliance team numbers for a match
+3. Enter opposing alliance numbers
+4. Your precentage win chance will be predictedd based on CCWM.
 
 
 <label for="Your Team">Your Team :</label>
