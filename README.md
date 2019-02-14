@@ -21,6 +21,15 @@ body {
 3. Enter opposing alliance numbers
 4. Your precentage win chance will be predictedd based on CCWM.
 
+<label for="Your Event">Your Event :</label>
+
+<input type="text" id="name" name="Event Name" required
+       minlength="4" maxlength="" size="10">
+       
+<label for="Your City">Your City :</label>
+
+<input type="text" id="name" name="Your City" required
+       minlength="4" maxlength="" size="10">
 
 <br>
 
