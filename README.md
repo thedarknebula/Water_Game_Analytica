@@ -69,5 +69,14 @@ body {
        minlength="4" maxlength="4" size="10">
 <br>
 
- <button class = "markdown-button" type="introbutton">Go!</button>
+ <button class = "gobutton" type="button">Go!</button>
+ 
+ <script>
+ 
+ button("gobutton", "Go!");
+ 
+ onEvent("gobutton", "click", function( ) {
+  
+ 
+ </script>
 
