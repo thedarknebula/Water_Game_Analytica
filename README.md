@@ -75,9 +75,21 @@ body {
  
  button("gobutton", "Go!");
  
- onEvent("gobutton", "click", function( ) {
+ onEvent("gobutton", "click", process( ) {
   
+}
+ process { 
  
+ <button onclick="myFunction()">Try it</button>
+
+<p id="demo"></p>
+
+<script>
+function myFunction() {
+  var x = document.getElementById("btn1").value;
+  document.getElementById("demo").innerHTML = x;
+}
+
  
  </script>
 
