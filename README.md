@@ -1,3 +1,4 @@
+
 # Welcome to Water Game Analytica!
 ### Your source for FRC win predictions and analysis
 
@@ -78,14 +79,14 @@ body {
  onEvent("gobutton", "click", process( ) {
   
 }
- process { 
  
- <button onclick="myFunction()">Try it</button>
+ 
+ <button onclick="process">Go!</button>
 
-<p id="demo"></p>
+<p id="gobutton"></p>
 
 <script>
-function myFunction() {
+function process() {
   var x = document.getElementById("btn1").value;
   document.getElementById("demo").innerHTML = x;
 }
